@@ -1,1 +1,1 @@
-target_stm32f722xe(RADIOLINKF722)
+target_stm32f722xe(AOCODARC_F722V2)
